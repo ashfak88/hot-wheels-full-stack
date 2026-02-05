@@ -1,0 +1,22 @@
+.Home-bg {
+  background-image: url('../assets/bgs.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh; 
+  width: 100%;
+  position: relative;
+}
+
+.home-content {
+  position: relative;
+  z-index: 2;
+  color: white;
+  text-align: center;
+  padding-top: 20%;
+}
+.Main-bg{
+    background-color: black;
+}
+
+
